@@ -2,6 +2,9 @@
 
 This repo contains the files you'd need to fabricate this laptop stand, an angled surface supported by Formlabs lattices. If you just want to make one that's identical to mine, you only need the AI/EPS file for laser cutting and the FORM file for printing on your Form 2. If you want to modify the stand, you can do so by starting with the CAD file and generating your own 3D printing and laser files.
 
+<img src="images/formlabs_laptop_stand_small.png" width="800px" height="600px" />
+<img src="images/formlabs_laptop_stand_side_small.png" width="800px" height="600px" />
+
 #### FORM file
 * `legs.form` Open directly in [PreForm](https://formlabs.com/tools/preform/) and send straight to your Form 2. It's already got the supports you'll need to print in [Tough resin](https://formlabs.com/materials/engineering/#tough-overview).
 
