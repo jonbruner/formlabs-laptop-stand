@@ -8,7 +8,7 @@ This repo contains the files you'd need to fabricate this laptop stand, an angle
 </p>
 
 #### FORM file
-* `legs.form` Open directly in [PreForm](https://formlabs.com/tools/preform/) and send straight to your Form 2. It's already got the supports you'll need to print in [Tough resin](https://formlabs.com/materials/engineering/#tough-overview).
+* `legs.form` Open directly in [PreForm](https://formlabs.com/tools/preform/) and send straight to your Form 2. It's already got the supports you'll need to print in [Tough resin](https://formlabs.com/materials/engineering/#tough-overview). You'll get a printability warning for unsupported geometries; this design has some unsupported overhangs that are 19&deg; off horizontal, [the limit](https://formlabs.com/media/upload/formlabs-design-guide.pdf) of what's recommended by Formlabs, as well as a little bit of edge geometry that's not completely supported. Some inner edges don't come out completely sharp, but they're invisible once the stand is assembled, and that's an acceptable tradeoff in this case in order to avoid needing to remove supports from the cavities inside the brackets.
 
 <p float="left">
   <img src="images/preform_screenshot_small.png" width="400" />
