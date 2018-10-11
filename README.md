@@ -11,7 +11,7 @@ This repo contains the files you'd need to fabricate this laptop stand, an angle
 * `legs.form` Open directly in [PreForm](https://formlabs.com/tools/preform/) and send straight to your Form 2. It's already got the supports you'll need to print in [Tough resin](https://formlabs.com/materials/engineering/#tough-overview).
 
 <p float="left">
-  <img src="images/preform_screenshot_small.jpg" width="400" />
+  <img src="images/preform_screenshot_small.png" width="400" />
   <img src="images/form_2_wash_cure_small.jpg" width="400" />
 </p>
 
